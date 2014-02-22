@@ -6,7 +6,7 @@ tagline:
 
 ## Pages
 
-[QTLpvl vignettes][qtlpvl-ghpages]
+[QTLpvl vignettes][qtlpvl-vig]
 
 ## Blog post list
 <ul class="posts">
@@ -25,6 +25,7 @@ My parts of this web site are licensed under
 [![CC BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
 
+[qtlpvl-vig]: https://jianan.github.io/qtlpvl
 [mygithub]: https://github.com/jianan/jianan.github.io
 [qtlpvl-r]: https://github.com/jianan/qtlpvl/tree/master
 [qtlpvl-ghpages]: https://github.com/jianan/qtlpvl/tree/gh-pages
