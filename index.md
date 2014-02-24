@@ -18,12 +18,6 @@ tagline:
 
 Sources on [github][mygithub].
 
----
-My parts of this web site are licensed under
-[CC BY](http://creativecommons.org/licenses/by/3.0/).
-
-[![CC BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
-
 
 [qtlpvl-vig]: http://jianan.github.io/qtlpvl
 [mygithub]: https://github.com/jianan/jianan.github.io
