@@ -1,25 +1,40 @@
 ---
 layout: page
-title: Jianan's Github Page
-tagline: 
+title: Jianan Tian
+tagline: Statistics PhD student at UW Madison
 ---
 
-## Pages
+## Publications
 
-[QTLpvl vignettes][qtlpvl-vig]
+**Tian J**, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS,
+Broman AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, Broman KW,
+Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
+affects gene expression in mouse pancreatic islets.
+[bioRxiv](http://biorxiv.org/content/early/2015/06/16/020974),
+[doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
+Submitted to [Genetics](http://genetics.org).
 
-## Blog post list
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Maenner MJ, Baker MW, Broman KW, **Tian J**, Barnes JK, Atkins A,
+McPherson E, Hong J, Brilliant MH, Mailick MR (2013) <i>FMR1</i> CGG
+expansions: Prevalence and sex ratios.
+[Am J Med Genet B Neuropsychiatr Genet](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291552-485X)
+162:466-473
+
+--------
+## Software
+#### R/qtlpvl
+
+QTL mapping with multiple traits and testing of pleiotrophy vs. close
+linkage. Exploration figures for disection of trans-eQTL hotspot.
+
+Source on [github](https://github.com/jianan/qtlpvl).
+View vignettes [here](http://jianan.github.io/qtlpvl).
 
 
-Sources on [github][mygithub].
+#### R/qtlintv
 
+R package for a simulation study on behaviour of QTL intervals in
+populations of Advanced Intercross Lines (AIL) and Diversity Outbred
+(DO).
 
-[qtlpvl-vig]: http://jianan.github.io/qtlpvl
-[mygithub]: https://github.com/jianan/jianan.github.io
-[qtlpvl-r]: https://github.com/jianan/qtlpvl/tree/master
-[qtlpvl-ghpages]: https://github.com/jianan/qtlpvl/tree/gh-pages
+Source on [github](https://github.com/jianan/qtlintv).
