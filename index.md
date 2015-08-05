@@ -14,6 +14,10 @@ affects gene expression in mouse pancreatic islets.
 [doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
 Submitted to [Genetics](http://genetics.org).
 
+Xiong L, Kuan P, **Tian J**, Keles S, Wang S (2015). Multivariate boosting
+for integrative analysis of high dimensional cancer genomic data. To
+appear in [Cancer Informatics](http://http://www.la-press.com/journal-cancer-informatics-j10).
+
 Maenner MJ, Baker MW, Broman KW, **Tian J**, Barnes JK, Atkins A,
 McPherson E, Hong J, Brilliant MH, Mailick MR (2013) <i>FMR1</i> CGG
 expansions: Prevalence and sex ratios.
@@ -40,3 +44,13 @@ populations of Advanced Intercross Lines (AIL) and Diversity Outbred
 (DO).
 
 Source on [github](https://github.com/jianan/qtlintv).
+
+
+#### R/MaXact
+
+Exact max-type Cochran-Armitage trend test. This package perform exact
+MAX3 or MAX2 test for one-locus genetic association analysis and trend
+test for dominant, recessive and additive models, it can also
+calculate approximated p-value with the normal approximation method.
+
+Download from [CRAN](https://cran.r-project.org/web/packages/MaXact/index.html).
