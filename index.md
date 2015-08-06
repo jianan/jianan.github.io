@@ -35,25 +35,14 @@ expansions: Prevalence and sex ratios.
 
 Tian J (2015) Dissection and Fine-mapping of trans-eQTL hotspots (defense to be held August 25, 2015)
 
-#### Talks
-
-Fine-mapping a trans-eQTL hotspot \[[PDF]({{ BASE_PATH }}/assets/talks/IMGC2013.pdf)\] <br/>
-27th International Mammalian Genome Conference, Spain, September 17, 2013
-
-#### Posters
-
-Fine-mapping a trans-eQTL hotspot \[[PDF]({{ BASE_PATH }}/assets/talks/WID2014.pdf))\] <br/>
-WARF Discovery Challenge 2014, Madison, WI, May 21, 2014
-
-
 --------
 
 ## Software
 
 #### R/qtlpvl
 
-QTL mapping with multiple traits and testing of pleiotrophy vs. close
-linkage. Exploration figures for disection of trans-eQTL hotspot.
+QTL mapping with multiple traits, including tests of pleiotrohy vs. close
+linkage. Exploratory figures for disection of trans-eQTL hotspot.
 
 Source on [github](https://github.com/jianan/qtlpvl).
 View vignettes [here](http://jianan.github.io/qtlpvl).
@@ -61,18 +50,32 @@ View vignettes [here](http://jianan.github.io/qtlpvl).
 
 #### R/qtlintv
 
-R package for a simulation study on behaviour of QTL intervals in
+R package for a simulation study on the behaviour of QTL intervals in
 populations of Advanced Intercross Lines (AIL) and Diversity Outbred
-(DO).
+(DO) populations.
 
 Source on [github](https://github.com/jianan/qtlintv).
 
 
 #### R/MaXact
 
-Exact max-type Cochran-Armitage trend test. This package perform exact
-MAX3 or MAX2 test for one-locus genetic association analysis and trend
-test for dominant, recessive and additive models, it can also
-calculate approximated p-value with the normal approximation method.
+Exact max-type Cochran-Armitage trend test. This package performs exact
+MAX3 or MAX2 tests for one-locus genetic association analysis and trend
+tests for dominant, recessive and additive models. It can also
+calculate approximate p-values, with a normal approximation.
 
 Download from [CRAN](https://cran.r-project.org/web/packages/MaXact/index.html).
+
+--------
+
+## Presentations
+
+#### Talks
+
+Fine-mapping a trans-eQTL hotspot \[[PDF]({{ BASE_PATH }}/assets/talks/IMGC2013.pdf)\] <br/>
+27th International Mammalian Genome Conference, Spain, September 17, 2013
+
+#### Posters
+
+Fine-mapping a trans-eQTL hotspot \[[PDF]({{ BASE_PATH }}/assets/talks/WID2014.pdf)\] <br/>
+WARF Discovery Challenge 2014, Madison, WI, May 21, 2014
