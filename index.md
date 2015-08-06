@@ -79,3 +79,10 @@ Fine-mapping a trans-eQTL hotspot \[[PDF]({{ BASE_PATH }}/assets/talks/IMGC2013.
 
 Fine-mapping a trans-eQTL hotspot \[[PDF]({{ BASE_PATH }}/assets/talks/WID2014.pdf)\] <br/>
 WARF Discovery Challenge 2014, Madison, WI, May 21, 2014
+
+
+--------
+
+## Contact
+
+Email: jiant17@gmail.com
