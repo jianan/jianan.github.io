@@ -42,7 +42,7 @@ Tian J (2015) Dissection and Fine-mapping of trans-eQTL hotspots.
 #### R/qtlpvl
 
 QTL mapping with multiple traits, including tests of pleiotrohy vs. close
-linkage. Exploratory figures for disection of trans-eQTL hotspot.
+linkage. Exploratory figures for dissection of trans-eQTL hotspot.
 
 Source on [github](https://github.com/jianan/qtlpvl).
 View vignettes [here](http://jianan.github.io/qtlpvl).
