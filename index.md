@@ -41,7 +41,7 @@ Tian J (2015) Dissection and Fine-mapping of trans-eQTL hotspots.
 
 #### R/qtlpvl
 
-QTL mapping with multiple traits, including tests of pleiotrohy vs. close
+QTL mapping with multiple traits, including tests of pleiotropy vs. close
 linkage. Exploratory figures for dissection of trans-eQTL hotspot.
 
 Source on [github](https://github.com/jianan/qtlpvl).
@@ -50,7 +50,7 @@ View vignettes [here](http://jianan.github.io/qtlpvl).
 
 #### R/qtlintv
 
-R package for a simulation study on the behaviour of QTL intervals in
+R package for a simulation study on the behavior of QTL intervals in
 populations of Advanced Intercross Lines (AIL) and Diversity Outbred
 (DO) populations.
 
