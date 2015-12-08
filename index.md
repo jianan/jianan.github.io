@@ -33,7 +33,7 @@ expansions: Prevalence and sex ratios.
 
 #### Dissertation
 
-Tian J (2015) Dissection and Fine-mapping of trans-eQTL hotspots.
+Tian J (2015) Dissection and Fine-mapping of trans-eQTL hotspots. \[[PDF]({{ BASE_PATH }}/assets/PDF/dissertation.pdf)\]
 
 --------
 
