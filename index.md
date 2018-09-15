@@ -4,6 +4,18 @@ title: Jianan Tian
 tagline: Statistics PhD
 ---
 
+## Education
+
+*PhD*, *Statistics* , 2011/01 -- 2015/12 , UW-Madison
+
+*MS*, *Probability Theory and Mathematical Statistics*, 2007/09 -- 2010/07, USTC
+
+*BS*, *Statistics*, 2003/09 -- 2007/07, USTC
+
+
+
+--------
+
 ## Publications
 
 
@@ -30,8 +42,9 @@ data. [Cancer Informatics](http://la-press.com/article.php?article_id=5205)
 Maenner MJ, Baker MW, Broman KW, **Tian J**, Barnes JK, Atkins A,
 McPherson E, Hong J, Brilliant MH, Mailick MR (2013) <i>FMR1</i> CGG
 expansions: Prevalence and sex ratios.
-[Am J Med Genet B Neuropsychiatr Genet](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291552-485X)
-162:466-473 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23740716)
+[Am J Med Genet B Neuropsychiatr Genet](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.b.32176)
+162:466-473. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23740716)
+
 
 #### Dissertation
 
