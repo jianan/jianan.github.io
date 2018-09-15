@@ -1,11 +1,17 @@
 ---
 layout: page
 title: Jianan Tian
-tagline: Statistics PhD student at UW Madison
+tagline: Statistics PhD
 ---
 
 ## Publications
 
+
+**Tian J**, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
+Broman KW (2016) The dissection of expression quantitative trait locus
+hotspots. [Genetics](http://www.genetics.org/content/202/4/1563)
+202.4: 1563-1574.
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26837753)
 
 **Tian J**, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton
 DS, Broman AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, Broman
@@ -13,17 +19,13 @@ KW, Attie AD (2015) Identification of the bile acid transporter
 <i>Slco1a6</i> as a candidate gene that broadly affects gene
 expression in mouse pancreatic
 islets. [Genetics](http://www.genetics.org/content/early/2015/09/18/genetics.115.179432.abstract)
-201:1253-1262 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
-
-**Tian J**, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
-Broman KW (2015) The dissection of expression quantitative trait locus
-hotspots.  [arXiv:1510.02863](http://arxiv.org/abs/1510.02863)
-Submitted to [Genetics](http://www.genetics.org).
+201:1253-1262. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
 
 Xiong L, Kuan P, **Tian J**, Keles S, Wang S (2015). Multivariate
 boosting for integrative analysis of high dimensional cancer genomic
 data. [Cancer Informatics](http://la-press.com/article.php?article_id=5205)
-2014: Suppl. 7 123-131
+2014: Suppl. 7 123-131.
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26609213)
 
 Maenner MJ, Baker MW, Broman KW, **Tian J**, Barnes JK, Atkins A,
 McPherson E, Hong J, Brilliant MH, Mailick MR (2013) <i>FMR1</i> CGG
